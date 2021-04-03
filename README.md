@@ -6,4 +6,5 @@ OK
 
 then I went to settings and made it into a GH PAGES...
 
-THEM it added an index file
+THEN it added an index.md file and also a Config.yml   as a Subfolder 
+
